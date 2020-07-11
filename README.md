@@ -4,7 +4,7 @@
 
 <h3> I enjoy finding heuristic, efficient, and elegant ways of getting things done right.</h3>
 
-<h4> I'm a top-tier power user. Language, framework, and OS agnostic. Web, desktop, mobile -- anything goes.</h4>
+<h4> I'm a top-tier power user. Language, framework, and OS agnostic. Web, desktop, mobile -- anything goes. These days I'm mainly interested in flutter and blockchain.</h4>
 
 <h5> I also like to automate; even if it means I need to spend 30 hours automating a 30 min task.</h5>
 
