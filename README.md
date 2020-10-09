@@ -6,6 +6,4 @@
 
 <h4> I'm a top-tier power user. Language, framework, and OS agnostic. Web, desktop, mobile -- anything goes. These days I'm mainly interested in flutter and blockchain.</h4>
 
-<h5> I also like to automate; even if it means I need to spend 30 hours automating a 30 min task.</h5>
-
-<h6> And I like to travel. You'll find me mostly either in Israel or Eastern Europe.</h6>
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Agon)](https://github.com/anuraghazra/github-readme-stats)
