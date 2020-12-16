@@ -1,4 +1,4 @@
-<h1 align="center">Hello! Страствуйте! שלום! 今日は！</h1>
+<h1 align="center">Hello! Здравствуйте! שלום! 今日は！</h1>
 
 <h2>I'm a technophile and spend a lot of time trying to understand the inner workings of some software or hardware by intentionally breaking stuff, disassembling or reassembling them, and finding heuristic solutions to any issues encountered.</h2>
 
