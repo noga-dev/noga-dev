@@ -8,5 +8,5 @@
 
 <a href="https://noga.dev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=agondev&show_icons=true&include_all_commits=true&theme=radical" /></a>
 <a href="https://noga.dev"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agondev&theme=merko&layout=compact" /></a>
-<a href="https://noga.dev"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Agon&theme=tokyonight" /></a>
-<a href="https://noga.dev"><img align="center" src="https://github-readme-stackoverflow.vercel.app/?userID=1018172&theme=dark" /></a>
+<a href="https://wakatime.com/@Agon"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Agon&theme=tokyonight" /></a>
+<a href="https://stackoverflow.com/users/1018172/agon-noga"><img align="center" src="https://github-readme-stackoverflow.vercel.app/?userID=1018172&theme=dark" /></a>
