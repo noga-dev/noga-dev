@@ -6,8 +6,7 @@
 
 <h4>Fluent in Russian, Hebrew, and English. Presently learning Japanese. Interests include programming, literature, philosophy, psychology, gaming, and music.</h4>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=agondev&theme=radical&show_icons=true)]
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agondev&theme=merko&layout=compact)]
-
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Agon&theme=tokyonight)]
+<a href="https://noga.dev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=agondev&show_icons=true&include_all_commits=true&theme=radical" /></a>
+<a href="https://noga.dev"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agondev&theme=merko&layout=compact" /></a>
+<a href="https://noga.dev"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Agon&theme=tokyonight" /></a>
+<a href="https://noga.dev"><img align="center" src="https://github-readme-stackoverflow.vercel.app/?userID=1018172&theme=dark" /></a>
