@@ -6,9 +6,28 @@
 
 <h4>Fluent in Russian, Hebrew, and English. Presently learning Japanese. Interests include programming, literature, philosophy, psychology, gaming, and music.</h4>
 
-<a href="https://noga.dev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=agondev&show_icons=true&include_all_commits=true&theme=radical" /></a>
-<a href="https://noga.dev"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agondev&theme=merko&layout=compact" /></a>
-<a href="https://wakatime.com/@Agon"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Agon&theme=tokyonight" /></a>
-<a href="https://stackoverflow.com/users/1018172/agon-noga"><img align="center" src="https://github-readme-stackoverflow.vercel.app/?userID=1018172&theme=dark" /></a>
-![](https://komarev.com/ghpvc/?username=agondev&style=flat-square&label=👀&color=000000)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=agondev&theme=dark)](https://noga.dev)
+<p float="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=agondev&show_icons=true&include_all_commits=true&theme=radical&hide_rank=false&include_all_commits=false&count_private=true&show_icons=true&hide_title=false" width="49.6%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Agon&theme=tokyonight&hide_title=false&layout=compact&langs_count=6" width="49.6%" /> 
+</p>
+
+<!--<a href="https://noga.dev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=agondev&show_icons=true&include_all_commits=true&theme=radical&hide_rank=false&include_all_commits=false&count_private=true&show_icons=true&hide_title=true" /></a>
+<a href="https://noga.dev"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agondev&theme=merko&layout=compact" /></a>
+<a href="https://wakatime.com/@Agon"><img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Agon&theme=tokyonight&hide_title=true&layout=compact&langs_count=6" /></a><-->
+<!--<a href="https://stackoverflow.com/users/1018172/agon-noga"><img align="center" src="https://github-readme-stackoverflow.vercel.app/?userID=1018172&theme=dark" /></a>
+<a href="https://noga.dev"><img align="center" src="https://komarev.com/ghpvc/?username=agondev&style=flat-square&label=👀&color=000000" /></a>
+<a href="https://noga.dev"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agondev&theme=dark" /></a>
+<a href="https://noga.dev"><img align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Agondev" /></a>-->
+
+<!--
+Github | WakaTime
+:-:|:-:
+![](https://github-readme-stats.vercel.app/api?username=agondev&show_icons=true&include_all_commits=true&theme=radical&hide_rank=false&include_all_commits=false&count_private=true&show_icons=true&hide_title=true) | ![](https://github-readme-stats.vercel.app/api/wakatime?username=Agon&theme=tokyonight&hide_title=true&layout=compact&langs_count=6)
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=agondev&show_icons=true&include_all_commits=true&theme=radical&hide_rank=false&include_all_commits=false&count_private=true&show_icons=true&hide_title=true"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Agon&theme=tokyonight&hide_title=true&layout=compact&langs_count=6"></td>
+  </tr>
+</table>
+-->
