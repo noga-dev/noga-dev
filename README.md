@@ -7,8 +7,8 @@
 <h4>Fluent in Russian, Hebrew, and English. Presently learning Japanese. Interests include programming, literature, philosophy, psychology, gaming, and music.</h4>
 
 <p float="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agondev&show_icons=true&include_all_commits=true&theme=radical&hide_rank=false&include_all_commits=false&count_private=true&show_icons=true&hide_title=false" width="49.6%" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Agon&theme=tokyonight&hide_title=false&layout=default&langs_count=6" width="49.6%" /> 
+  <a href="https://noga.dev"><img src="https://github-readme-stats.vercel.app/api?username=agondev&show_icons=true&include_all_commits=true&theme=radical&hide_rank=false&include_all_commits=false&count_private=true&show_icons=true&hide_title=false" width="49.6%" /><a/>
+  <a href="https://wakatime.com/@Agon"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Agon&theme=tokyonight&hide_title=false&layout=default&langs_count=6" width="49.6%" /></a>
 </p>
 
 <!--<a href="https://noga.dev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=agondev&show_icons=true&include_all_commits=true&theme=radical&hide_rank=false&include_all_commits=false&count_private=true&show_icons=true&hide_title=true" /></a>
