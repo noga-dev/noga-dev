@@ -11,3 +11,4 @@
 <a href="https://wakatime.com/@Agon"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Agon&theme=tokyonight" /></a>
 <a href="https://stackoverflow.com/users/1018172/agon-noga"><img align="center" src="https://github-readme-stackoverflow.vercel.app/?userID=1018172&theme=dark" /></a>
 ![](https://komarev.com/ghpvc/?username=agondev&style=flat-square&label=👀&color=000000)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=agondev&theme=dark)](https://noga.dev)
