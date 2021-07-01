@@ -1,10 +1,8 @@
 <h1 align="center">Hello! Здравствуйте! שלום! 今日は！</h1>
 
-<h2>I'm a technophile and enjoy trying to understand the inner workings of some software or hardware by intentionally breaking stuff, disassembling or reassembling them, and finding heuristic solutions to issues.</h2>
+<h2>Attentive to detail. Power user. Language, framework, stack, platform, and OS agnostic. These days I delve mainly in flutter and blockchain.</h3>
 
-<h3>Attentive to detail and a power user. Language, framework, and OS agnostic. Web, desktop, mobile -- anything goes. These days I delve mainly in flutter and blockchain.</h3>
-
-<h4>Fluent in Russian, Hebrew, and English. Presently learning Japanese. Interests include programming, literature, philosophy, psychology, gaming, and music.</h4>
+<h3>Fluent in Russian, Hebrew, and English. Presently learning Japanese. Interests include programming, literature, philosophy, psychology, gaming, and music.</h4>
 
 <p float="center">
   <a href="https://noga.dev"><img src="https://github-readme-stats.vercel.app/api?username=agondev&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_rank=false&include_all_commits=false&count_private=true&show_icons=true&hide_title=false" width="49.6%" /><a/>
