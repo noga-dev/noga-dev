@@ -20,9 +20,9 @@
   </tr>
 <table>
   
-<h2 align="center">dynamic getCodeMonkey() => (attentiveToDetail && powerUser) ? Agon() : null;</h1>
-  
-<!-- <h3 align="center"> var agnostic = [language, framework, stack, platform, OS];</h2>
+<!-- <h2 align="center">dynamic getCodeMonkey() => (attentiveToDetail && powerUser) ? Agon() : null;</h1>
+
+<h3 align="center"> var agnostic = [language, framework, stack, platform, OS];</h2>
   
 <h3 align="center"> These days mainly into flutter and blockchain</h2> -->
 
