@@ -1,7 +1,7 @@
 <!-- <a href="https://noga.dev"><img src="https://activity-graph.herokuapp.com/graph?username=Agondev&theme=chartreuse-dark&area=true&line=aa00ff&point=f9a825&color=ffffff" /></a> --> <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <p float="center">
-  <a href="https://noga.dev"><img src="https://github-readme-stats.vercel.app/api?username=noga-dev&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_rank=false&include_all_commits=false&count_private=true&show_icons=true&hide_title=false" width="49.7%" /><a/>
-  <a href="https://wakatime.com/@Agon"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Agon&theme=midnight-purple&hide_title=false&layout=default&langs_count=5" width="49.7%" /></a>
+  <a href="https://noga.dev"><img src="https://github-readme-stats.vercel.app/api?username=noga-dev&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_rank=false&include_all_commits=false&count_private=true&show_icons=true&hide_title=false" width="49.6%" /><a/>
+  <a href="https://wakatime.com/@Agon"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Agon&theme=midnight-purple&hide_title=false&layout=default&langs_count=5" width="49.6%" /></a>
     <!-- https://github.com/anuraghazra/github-readme-stats -->
 </p>
 
